@@ -1,0 +1,8 @@
+/coverage
+/dist
+/node_modules
+npm-debug.log*
+.cache
+dist
+/nwb.config.js
+/yarn.lock
